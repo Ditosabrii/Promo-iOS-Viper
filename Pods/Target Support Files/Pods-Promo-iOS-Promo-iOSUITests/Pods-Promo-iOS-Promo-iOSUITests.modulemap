@@ -1,0 +1,6 @@
+framework module Pods_Promo_iOS_Promo_iOSUITests {
+  umbrella header "Pods-Promo-iOS-Promo-iOSUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
